@@ -1,4 +1,4 @@
-# AulaRicardo
+# WOOF WORK
 
 Aplicativo de Lista de Tarefas. <br>
   O nome do aplicativo é WOOF WORK. A tela principal do aplicativo será basicamente uma lista, onde o usuário poderá adicionar Tarefas Pendentes. Adicionalmente terá um campo para marcar a tarefa como concluída - assim que a tarefa for marcada, ela sumirá da tela principal e irá para a outra aba do aplicativo, que será a de "Tarefas concluídas". <br>
