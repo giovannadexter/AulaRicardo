@@ -7,4 +7,8 @@ Aplicativo de Lista de Tarefas. <br>
 
   Link para o protótipo do aplicativo: https://www.figma.com/proto/lKS4YMfDkgX03JVqhfhLc5/Untitled?type=design&node-id=1-3413&t=c7Ae4wEk5qh8uAsz-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A93&show-proto-sidebar=1 <br>
   Link para funcionalidade para adicionar uma nova tarefa: https://www.figma.com/proto/lKS4YMfDkgX03JVqhfhLc5/Untitled?type=design&node-id=2-4662&t=kcNVmNblmIeyf0SG-9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A4662&show-proto-sidebar=1
+
+  Giovanna Kubo
+  Bruna Tonelli
+  Yasmin Laurentino
   
